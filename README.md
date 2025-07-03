@@ -1,4 +1,7 @@
 # Frontend Mentor - Todo app
+![image](https://github.com/user-attachments/assets/96cdd046-e245-445c-a25a-d786b3dddf45)
+![image](https://github.com/user-attachments/assets/71fc35d0-72fb-4677-a702-ace550c34105)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -25,8 +28,6 @@ Your users should be able to:
 - Toggle light and dark mode
 - **Bonus**: Drag and drop to reorder items on the list
 
-
-
 ## Where to find everything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
@@ -38,13 +39,3 @@ If you would like the design files (we provide Sketch & Figma versions) to inspe
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
-
-
-
-## Create a custom `README.md`
-
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
